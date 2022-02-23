@@ -1,0 +1,2 @@
+Criação de um formulário de cadastro em apenas html e css, ultilizei as tags forms e seus inputs, alguns links e o mais complicado pra mim a centralização do fomulário no centro da página ultilizei o estilo margin:auto pra centralizar e pra por no meio da página coloquei um margin-top de 100px.
+No momento esse fomulário não é funcional pretendo adicionar futuramente novas funcionalidades e melhorara a reponsividande dele no entanto é isso, um projeto simples em html e css que eu fiz durante meu aprendizado.
